@@ -12,6 +12,7 @@ Introduction aux systèmes multitâches avec FreeRTOS : gestion des tâches, syn
 Formation avancée en conception de circuits imprimés : du schéma électronique jusqu’à la fabrication (PCB 2 couches et 4 couches).
 🏅 Attestation de formation (ENIM)
 Reconnaissance pour contribution à la formation en conception électronique et partage de connaissances techniques.
+
 💡 Compétences développées
 
 ✔️ Programmation embarquée (STM32, C)
