@@ -13,6 +13,7 @@ Formation avancée en conception de circuits imprimés : du schéma électroniqu
 🏅 Attestation de formation (ENIM)
 Reconnaissance pour contribution à la formation en conception électronique et partage de connaissances techniques.
 💡 Compétences développées
+
 ✔️ Programmation embarquée (STM32, C)
 ✔️ Systèmes temps réel (FreeRTOS)
 ✔️ Conception PCB (Altium Designer) et Simulation des circuits (LTSpice) 
